@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java/web/tomcat7","configs":{}},"builders":{"default":"maven"}}
+{"mixinTypes":["contribution"],"runners":{"configs":{},"default":"system:/java/web/tomcat7"},"builders":{"configs":{},"default":"maven"},"type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"],"contribute_branch":["master"],"contribute_mode":["contribute"]}}
